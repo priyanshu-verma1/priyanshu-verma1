@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @priyanshu-verma1
-- 👀 I’m interested in VLSI, Wireless Communication
-- 🌱 I’m currently learning Electronics and Communication
+- 👀 I’m interested in Embedded Hardware and Software
+- 🌱 I’m currently Embedded C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
